@@ -34,6 +34,13 @@ The primary objective of this project is to analyze reaction time as a measure o
 3. **Analysis**: The data is analyzed to determine patterns in reaction time based on the mental health status of the participants.
 4. **Visualization**: A graph is generated to visualize the reaction times for each participant over multiple trials.
 
+## Result
+
+**Good mental health**
+![Good_mental_health](https://github.com/user-attachments/assets/e17e47b6-b12b-4db4-b327-a5ad41e629b0)
+
+
+
 ## Future Work
 
 This project could be expanded to:
