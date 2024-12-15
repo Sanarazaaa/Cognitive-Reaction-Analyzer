@@ -1,7 +1,5 @@
 # Cognitive-Reaction-Analyzer
 
-## Overview
-
 The **Cognitive Reaction Analyzer** project investigates the intersection of action and cognition by measuring reaction times in response to a visual stimulus. This project explores how physical actions, such as pressing a key after seeing a visual cue, affect cognitive processes like attention, perception, and reaction time.
 
 This study aligns closely with research in cognitive neuroscience, particularly focusing on how mental health influences cognitive function, especially in terms of reaction time. The project aims to provide insights into how individuals with different mental health statuses may respond to cognitive tasks.
